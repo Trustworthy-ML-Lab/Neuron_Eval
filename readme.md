@@ -1,6 +1,6 @@
 # Evaluating Neuron Explanations: A Unified Framework with Sanity Checks 
 
-This is the official repo of our ICML'25 paper, our full code will be released shortly, please stay tuned.
+This is the official repo of our [ICML'25 paper](https://arxiv.org/abs/2506.05774), our full code will be released shortly, please stay tuned.
 
 * In this work we *unify* many existing neuron-level explanation evaluation methods under one mathematical framework: **Neuron Eval**.
 * The unified framework **Neuron Eval** allows us to compare and contrast existing evaluation metrics, understand the evaluation pipeline with increased clarity and apply existing statistical concepts on the evaluation.
