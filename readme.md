@@ -1,6 +1,6 @@
 # Evaluating Neuron Explanations: A Unified Framework with Sanity Checks 
 
-This is the official repo of our [ICML'25 paper](https://arxiv.org/abs/2506.05774), our full code will be released shortly, please stay tuned.
+This is the official repo of our [ICML'25 paper](https://arxiv.org/abs/2506.05774), our full code will be released shortly, please stay tuned. [[Link to website]](https://lilywenglab.github.io/Neuron_Eval/)
 
 * In this work we *unify* many existing neuron-level explanation evaluation methods under one mathematical framework: **Neuron Eval**.
 * The unified framework **Neuron Eval** allows us to compare and contrast existing evaluation metrics, understand the evaluation pipeline with increased clarity and apply existing statistical concepts on the evaluation.
@@ -13,7 +13,7 @@ This is the official repo of our [ICML'25 paper](https://arxiv.org/abs/2506.0577
 
 
 ## Cite this work
-T. Oikarinen, G. Yan. and T.-W. Weng, *Evaluating Neuron Explanations: A Unified Framework with Sanity Checks*, ICML 2025.
+T. Oikarinen, G. Yan, and T.-W. Weng, *Evaluating Neuron Explanations: A Unified Framework with Sanity Checks*, ICML 2025.
 
 ```
 @inproceedings{oikarinen2025evaluating,
