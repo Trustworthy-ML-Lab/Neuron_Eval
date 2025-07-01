@@ -1,0 +1,7 @@
+__pycache__/
+data/resnet18_places365.pth.tar
+data/CUB_processed
+data/CUB_200_2011
+data/cub_cbm_trained.pth
+data/openweb_tokenized_first_200k.pt
+saved_activations/

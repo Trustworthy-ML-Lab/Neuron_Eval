@@ -1,0 +1,9 @@
+gdown >= 5.1.0
+jupyter >= 1.0
+notebook >= 7.0.1
+torcheval >= 0.0.7
+matplotlib >= 3.7.2
+tqdm >= 4.67.1
+open-clip-torch >= 2.23.0
+datasets >= 3.2.0
+transformer-lens >= 2.11.0
